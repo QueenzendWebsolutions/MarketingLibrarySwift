@@ -1,0 +1,16 @@
+PODS:
+  - MarketingLibrarySwift (0.1.0)
+
+DEPENDENCIES:
+  - MarketingLibrarySwift (from `../`)
+
+EXTERNAL SOURCES:
+  MarketingLibrarySwift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MarketingLibrarySwift: d48c5ba3152c565d43f193f27651c2d94ef3ebeb
+
+PODFILE CHECKSUM: 35073bbd65481a736b7372a6f5ae54b3a2e7b97c
+
+COCOAPODS: 1.8.4
