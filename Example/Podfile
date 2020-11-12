@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MarketingLibrarySwift_Example' do
+  pod 'MarketingLibrarySwift', :path => '../'
+
+  target 'MarketingLibrarySwift_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
